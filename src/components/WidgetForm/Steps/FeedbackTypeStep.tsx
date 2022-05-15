@@ -28,8 +28,8 @@ export function FeedbackTypeStep({onFeedbackTypeChanged} : FeedbackTypeStepProps
                         <span>{value.title}</span>
                     </button>
                 );
-             }) }
-      </div>
+            }) }
+        </div>
         </>
     );
 }
